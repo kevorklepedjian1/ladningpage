@@ -12,7 +12,9 @@ body {
     overflow-x: hidden;
 
 }
-
+span{
+    color:#3ee9e5
+}
 h1 {
     text-align: center;
     width: 50%;
@@ -342,6 +344,10 @@ h5 {
         width: 1022px;
         left: -1rem;
     }
+    .l{
+        margin: 1.5rem 0 2rem 0;
+        width: 60%;
+    }
 
 }
 
@@ -395,6 +401,9 @@ h5 {
     .content-price-container {
         margin: 0 2rem 4.937rem 2rem;
     }
+    h1{
+        width: 60%;
+    }
 }
 @media (max-width: 375px){
 .imgf,.imgs,.imgt,.imga{
@@ -402,5 +411,14 @@ h5 {
     flex-direction: column;
     justify-content: center;
     margin: 0;
+}
+.l{
+    
+        width: 95%;
+        margin: 1.43rem 0 2rem 0;
+    
+}
+h1{
+    width: 70%;
 }
 }

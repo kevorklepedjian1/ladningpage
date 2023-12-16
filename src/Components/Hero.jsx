@@ -15,7 +15,7 @@ const Hero = () => {
       <img src={img2} className='b absolute left-0 top-0 -z-10'/>
       <img src={img1} className='d absolute top-0 -z-10'/>
       <div className='flex items-center justify-center flex-col mt-16 z-10 text-center'>
-      <h1 className='text-white w-kev text-me'>Get paid for the work you love to do.</h1>
+      <h1 className='text-white w-kev text-me'>Get paid for the work you <span>love</span> to do.</h1>
       <p className='l'>The 9-5 grind is so last century. We believe in living life on your own terms. Whether you’re looking to escape the rat race or set up a side hustle, we’ve got you covered.</p>
        <img src={img5}/>
       </div>
