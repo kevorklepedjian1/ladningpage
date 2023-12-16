@@ -1,4 +1,3 @@
-// Header.js
 import React from 'react';
 import logo from '../assets/logo.svg';
 import withAnimation from '../hocs/withAnimation'

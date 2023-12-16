@@ -1,4 +1,3 @@
-// Features.js
 import React, { useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import img1 from '../assets/illustration-passions.svg';
